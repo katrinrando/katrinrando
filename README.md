@@ -1,4 +1,4 @@
-<font size="5">
+<font size="15">
 - hellow, I’m @katrinrando
 - currently learning coding
 - my twitter is https://twitter.com/katrinrando
