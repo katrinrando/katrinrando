@@ -1,5 +1,5 @@
 
-- <font size="5">**hellow, I’m @katrinrando**</font>
+- <font size="15">**hellow, I’m @katrinrando**</font>
 - **currently learning coding**
 - **my twitter is https://twitter.com/katrinrando**
 
